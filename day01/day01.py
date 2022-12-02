@@ -1,4 +1,3 @@
-# Using readlines()
 file1 = open('input01', 'r')
 Lines = file1.readlines()
 totais = []
