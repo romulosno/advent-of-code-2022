@@ -1,3 +1,5 @@
+"""Day 01 challenge."""
+
 file1 = open('input01', 'r')
 Lines = file1.readlines()
 totais = []
